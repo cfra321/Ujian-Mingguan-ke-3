@@ -1,4 +1,5 @@
-# Ujian-Mingguan-ke-3
+# test Login dan add to chart product 
+Ujian-Mingguan-ke-3
 Buat automation testing untuk fitur Login pada web https://shop.demoqa.com dan fitur Add 1 product to cart   
 *Register akun terlebih dahulu tetapi tidak dijadikan test case  
 *Push project ke github dengan repository baru
